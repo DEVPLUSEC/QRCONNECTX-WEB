@@ -63,7 +63,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-=======
-# QRCONNECTX-WEB
-QRConnectX es una aplicación móvil y plataforma web innovadora diseñada para simplificar la gestión de equipos de computo mediante la lectura y administración de códigos QR. Escanear códigos QR de los equipos y acceder a la información, acciones de visualización, edición y eliminación de datos en aplicación web.
->>>>>>> 129fbbaec866d7897aec032543db8880f6d9a44b
+
